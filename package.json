@@ -1,0 +1,19 @@
+{
+  "name": "square-sample",
+  "version": "1.0.0",
+  "description": "A sample javascript application for Square APIs",
+  "module": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "square": "^19.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  }
+}
